@@ -1,0 +1,64 @@
+body {
+    background-image: url(file_00000000a6a871f59ea1547e377791b7.png);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo {
+    float: left;
+    width: 159px;
+}
+.search{
+    float: right;
+    width: 159px;
+}
+.menu a {
+    text-decoration: none;
+    float: right;
+    display: block;
+    padding: 25px 16px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.menu a:hover {
+    
+    /* border-bottom: 3px solid yellow; */
+    background-color: yellow;
+}
+.header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.search {
+    float: right;
+    width: 20px;
+    padding: 20px 18px;
+}
+.center {
+    margin-top: 200PX;
+
+}
+.center h1 {
+
+    color: white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000;
+    background-color: yellow;
+    border: 10px solid #000;
+    padding: 15px 30px;
+}
+button:hover{
+
+    background-color: #fff;
+}
